@@ -1,0 +1,31 @@
+.item-icon{
+	height:100%;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+.navbar-inverse {
+    background-color: #00b3a0;
+    border-color: rgba(255,255,255,.15);
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #d9edf7;
+}
+.container{
+	height: 100%;
+}
+.display-table {
+    display: table;
+    width: 100%;
+}
+#about_us p{
+	font-size: 16px;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #000;
+    background-color: transparent;
+}
